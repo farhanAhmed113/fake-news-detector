@@ -189,13 +189,11 @@ MODEL_PATH=./model.pkl
 - Model retraining required for optimal performance
 - CORS configuration for production deployment
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-**Nihal** - [GitHub](https://github.com/nihal07g)
+**FARHAN** 
 
 ## 🙏 Acknowledgments
 
