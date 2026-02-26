@@ -61,7 +61,7 @@ An intelligent web application that uses machine learning to detect fake news ar
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/nihal07g/fake-news-detector-ml.git
+git clone https://github.com/farhanAhmed113/fake-news-detector.git
 cd fake-news-detector-ml
 ```
 
